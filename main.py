@@ -52,4 +52,3 @@ def bank(user_input):
 
 if __name__ == "__main__":
     print(bank(user_input))
-
